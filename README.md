@@ -10,17 +10,17 @@ Playnite forum thread:
 - Support for most common add-ons, such as [SuccessStory](https://github.com/Lacro59/playnite-successstory-plugin), [HowLongToBeat](https://github.com/Lacro59/playnite-howlongtobeat-plugin), [Extra Metadata Tools](https://playnite.link/forum/thread-575.html), and [News Viewer](https://playnite.link/forum/thread-947.html)
 
 ## Screenshots
-![Screenshot](https://github.com/dariolupo/Daze_Theme/blob/main/Screenshots/Details%20View%20(with%20Filters).png)
+![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Explorer%20+%20Details).png?token=GHSAT0AAAAAABQN2KEYJMLKJXB2HQ4E42XMYO4M2XQ)
 
-![Screenshot](https://github.com/dariolupo/Daze_Theme/blob/main/Screenshots/Grid%20View%20(with%20Stars%20Ratings).png)
+![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Full).png?token=GHSAT0AAAAAABQN2KEZR5EEKBBN2SX7OMTYYO4MZEQ)
 
-![Screenshot](https://raw.githubusercontent.com/https://github.com/dariolupo/Daze_Theme/blob/main/Screenshots/Details%20View.png)
+![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(with%20Stars%20Ratings).png?token=GHSAT0AAAAAABQN2KEYFMKPOBHFER3WTUVQYO4M2AQ)
 
-![Screenshot](https://github.com/dariolupo/Daze_Theme/blob/main/Screenshots/Grid%20View%20(Explorer%20%2B%20Details).png)
+![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Details%20View.png?token=GHSAT0AAAAAABQN2KEZ73YI5OTV6VEX52XGYO4M3GQ)
 
-![Screenshot](https://github.com/dariolupo/Daze_Theme/blob/main/Screenshots/Grid%20View%20(Filters%20%2B%20Details).png)
+![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Details%20View%20(with%20Filters).png?token=GHSAT0AAAAAABQN2KEYMMKKRQ2QAGQLIFW2YO4M3TQ)
 
-![Screenshot](https://github.com/dariolupo/Daze_Theme/blob/main/Screenshots/Grid%20View%20(Full).png)
+![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Filters%20+%20Details).png?token=GHSAT0AAAAAABQN2KEZXEQXFIFYMEJO7442YO4M4BQ)
 
 ## Optimal Playnite settings to avoid issues and achieve what's shown in the screenshots
 - **Appearance**
