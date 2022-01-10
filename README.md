@@ -60,7 +60,7 @@ Playnite forum thread:
 - The best way to use this theme without issues is using the suggested settings shown before
 - The star rating display method based on user score is the following:
   - 0-20 = 1 star
-  - 22-40 = 2 stars
+  - 20-40 = 2 stars
   - 40-60 = 3 stars
   - 60-80 = 4 stars
   - 80-100 = 5 stars
