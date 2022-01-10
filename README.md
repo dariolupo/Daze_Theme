@@ -57,12 +57,12 @@ Playnite forum thread:
   - Sidebar: **Disabled**
 
 ## More info
+- The best way to use this theme without issues is using the suggested settings shown before
 - The star rating display method based on user score is the following:
   - 0-20 = 1 star
   - 22-40 = 2 stars
   - 40-60 = 3 stars
   - 60-80 = 4 stars
   - 80-100 = 5 stars
-- The best way to use this theme without issues is using the suggested settings shown before
 - The rounded covers only work properly when using covers downloaded from IGDB, when using other formats there will be issues (such as rounded corners not displaying at the bottom of the cover)
 
