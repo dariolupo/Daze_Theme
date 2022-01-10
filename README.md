@@ -36,11 +36,11 @@ Playnite forum thread:
   - Show game names on Grid view: **True** if you wish to have names + star rating displayed under games
   - Darken not installed games: **False**
   - Cover art rendering
-  - Aspect Ratio: **3:4**
-  - Stretch mode: **Uniform to fill**
-  - Item spacing: **32**
-  - Grid item border width: **0**
-  - Draw grid item background: **False**
+    - Aspect Ratio: **3:4**
+    - Stretch mode: **Uniform to fill**
+    - Item spacing: **32**
+    - Grid item border width: **0**
+    - Draw grid item background: **False**
     
 - **Layout**
   - Filter panel position/width: **Left** - **350**
@@ -58,11 +58,11 @@ Playnite forum thread:
 
 ## More info
 - The star rating display method based on user score is the following:
-  0-20 = 1 star
-  22-40 = 2 stars
-  40-60 = 3 stars
-  60-80 = 4 stars
-  80-100 = 5 stars
- - The best way to use this theme without issues is using the suggested settings shown before
- - The rounded covers only work properly when using covers downloaded from IGDB, when using other formats there will be issues (such as rounded corners not displaying at the bottom of the cover)
+  - 0-20 = 1 star
+  - 22-40 = 2 stars
+  - 40-60 = 3 stars
+  - 60-80 = 4 stars
+  - 80-100 = 5 stars
+- The best way to use this theme without issues is using the suggested settings shown before
+- The rounded covers only work properly when using covers downloaded from IGDB, when using other formats there will be issues (such as rounded corners not displaying at the bottom of the cover)
 
