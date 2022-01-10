@@ -9,6 +9,19 @@ Playnite forum thread:
 - Displays rating in form of stars (1 to 5) under game covers in Grid View based on user score (Only when "Show game names in Grid view" is enabled in Playnite settings)
 - Support for most common add-ons, such as [SuccessStory](https://github.com/Lacro59/playnite-successstory-plugin), [HowLongToBeat](https://github.com/Lacro59/playnite-howlongtobeat-plugin), [Extra Metadata Tools](https://playnite.link/forum/thread-575.html), and [News Viewer](https://playnite.link/forum/thread-947.html)
 
+## Screenshots
+![Screenshot](https://github.com/dariolupo/Daze_Theme/blob/main/Screenshots/Details%20View%20(with%20Filters).png)
+
+![Screenshot](https://github.com/dariolupo/Daze_Theme/blob/main/Screenshots/Grid%20View%20(with%20Stars%20Ratings).png)
+
+![Screenshot](https://raw.githubusercontent.com/https://github.com/dariolupo/Daze_Theme/blob/main/Screenshots/Details%20View.png)
+
+![Screenshot](https://github.com/dariolupo/Daze_Theme/blob/main/Screenshots/Grid%20View%20(Explorer%20%2B%20Details).png)
+
+![Screenshot](https://github.com/dariolupo/Daze_Theme/blob/main/Screenshots/Grid%20View%20(Filters%20%2B%20Details).png)
+
+![Screenshot](https://github.com/dariolupo/Daze_Theme/blob/main/Screenshots/Grid%20View%20(Full).png)
+
 ## Optimal Playnite settings to avoid issues and achieve what's shown in the screenshots
 - **Appearance**
   - Application font: **Lato**
