@@ -9,19 +9,6 @@ Playnite forum thread:
 - Displays rating in form of stars (1 to 5) under game covers in Grid View based on user score (Only when "Show game names in Grid view" is enabled in Playnite settings)
 - Support for most common add-ons, such as [SuccessStory](https://github.com/Lacro59/playnite-successstory-plugin), [HowLongToBeat](https://github.com/Lacro59/playnite-howlongtobeat-plugin), [Extra Metadata Tools](https://playnite.link/forum/thread-575.html), and [News Viewer](https://playnite.link/forum/thread-947.html)
 
-## Screenshots
-![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Explorer%20+%20Details).png?token=GHSAT0AAAAAABQN2KEYPMJ73EE6EAZTB3ZKYO4M45Q)
-
-![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Full).png?token=GHSAT0AAAAAABQN2KEZR5EEKBBN2SX7OMTYYO4MZEQ)
-
-![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(with%20Stars%20Ratings).png?token=GHSAT0AAAAAABQN2KEYFMKPOBHFER3WTUVQYO4M2AQ)
-
-![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Details%20View.png?token=GHSAT0AAAAAABQN2KEZ73YI5OTV6VEX52XGYO4M3GQ)
-
-![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Details%20View%20(with%20Filters).png?token=GHSAT0AAAAAABQN2KEYMMKKRQ2QAGQLIFW2YO4M3TQ)
-
-![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Filters%20+%20Details).png?token=GHSAT0AAAAAABQN2KEZXEQXFIFYMEJO7442YO4M4BQ)
-
 ## Optimal Playnite settings to avoid issues and achieve what's shown in the screenshots
 - **Appearance**
   - Application font: **Lato**
@@ -78,4 +65,17 @@ Playnite forum thread:
   - 60-80 = 4 stars
   - 80-100 = 5 stars
 - The rounded covers only work properly when using covers downloaded from IGDB, when using other formats there will be issues (such as rounded corners not displaying at the bottom of the cover)
+
+## Screenshots
+![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Explorer%20+%20Details).png?token=GHSAT0AAAAAABQN2KEYPMJ73EE6EAZTB3ZKYO4M45Q)
+
+![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Full).png?token=GHSAT0AAAAAABQN2KEZR5EEKBBN2SX7OMTYYO4MZEQ)
+
+![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(with%20Stars%20Ratings).png?token=GHSAT0AAAAAABQN2KEYFMKPOBHFER3WTUVQYO4M2AQ)
+
+![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Details%20View.png?token=GHSAT0AAAAAABQN2KEZ73YI5OTV6VEX52XGYO4M3GQ)
+
+![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Details%20View%20(with%20Filters).png?token=GHSAT0AAAAAABQN2KEYMMKKRQ2QAGQLIFW2YO4M3TQ)
+
+![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Filters%20+%20Details).png?token=GHSAT0AAAAAABQN2KEZXEQXFIFYMEJO7442YO4M4BQ)
 
