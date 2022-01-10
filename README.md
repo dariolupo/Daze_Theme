@@ -7,7 +7,7 @@ Playnite forum thread:
 - Minimal and clean UI based on transparency and comfortable spacing
 - Borderless rounded covers (Only working perfectly when using IGDB as Metadata source for covers)
 - Displays rating in form of stars (1 to 5) under game covers in Grid View based on user score (Only when "Show game names in Grid view" is enabled in Playnite settings)
-- Support for most common add-ons, such as [SuccessStory](https://github.com/Lacro59/playnite-successstory-plugin), [HowLongToBeat](https://github.com/Lacro59/playnite-howlongtobeat-plugin), [Extra Metadata Tools](https://playnite.link/forum/thread-575.html), and [News Viewer](https://playnite.link/forum/thread-947.html)
+- Support for most common add-ons, such as [SuccessStory](https://github.com/Lacro59/playnite-successstory-plugin), [HowLongToBeat](https://github.com/Lacro59/playnite-howlongtobeat-plugin), [Extra Metadata Tools](https://playnite.link/forum/thread-575.html) (videos), and [News Viewer](https://playnite.link/forum/thread-947.html)
 
 ## Optimal Playnite settings to avoid issues and achieve what's shown in the screenshots
 - **Appearance**
