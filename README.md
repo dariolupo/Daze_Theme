@@ -10,7 +10,7 @@ Playnite forum thread:
 - Support for most common add-ons, such as [SuccessStory](https://github.com/Lacro59/playnite-successstory-plugin), [HowLongToBeat](https://github.com/Lacro59/playnite-howlongtobeat-plugin), [Extra Metadata Tools](https://playnite.link/forum/thread-575.html), and [News Viewer](https://playnite.link/forum/thread-947.html)
 
 ## Screenshots
-![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Explorer%20+%20Details).png?token=GHSAT0AAAAAABQN2KEYJMLKJXB2HQ4E42XMYO4M2XQ)
+![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Explorer%20+%20Details).png?token=GHSAT0AAAAAABQN2KEYPMJ73EE6EAZTB3ZKYO4M45Q)
 
 ![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Full).png?token=GHSAT0AAAAAABQN2KEZR5EEKBBN2SX7OMTYYO4MZEQ)
 
