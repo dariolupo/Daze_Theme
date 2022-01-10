@@ -67,15 +67,15 @@ Playnite forum thread:
 - The rounded covers only work properly when using covers downloaded from IGDB, when using other formats there will be issues (such as rounded corners not displaying at the bottom of the cover)
 
 ## Screenshots
-![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Explorer%20+%20Details).png?token=GHSAT0AAAAAABQN2KEYPMJ73EE6EAZTB3ZKYO4M45Q)
+![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Explorer%20+%20Details).png)
 
-![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Full).png?token=GHSAT0AAAAAABQN2KEZR5EEKBBN2SX7OMTYYO4MZEQ)
+![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Full).png)
 
-![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(with%20Stars%20Ratings).png?token=GHSAT0AAAAAABQN2KEYFMKPOBHFER3WTUVQYO4M2AQ)
+![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(with%20Stars%20Ratings).png)
 
-![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Details%20View.png?token=GHSAT0AAAAAABQN2KEZ73YI5OTV6VEX52XGYO4M3GQ)
+![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Details%20View.png)
 
-![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Details%20View%20(with%20Filters).png?token=GHSAT0AAAAAABQN2KEYMMKKRQ2QAGQLIFW2YO4M3TQ)
+![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Details%20View%20(with%20Filters).png)
 
-![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Filters%20+%20Details).png?token=GHSAT0AAAAAABQN2KEZXEQXFIFYMEJO7442YO4M4BQ)
+![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Filters%20+%20Details).png)
 
