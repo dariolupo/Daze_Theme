@@ -1,7 +1,7 @@
 # Daze
 A minimal, rounded theme for [Playnite](https://github.com/JosefNemec/Playnite) Desktop.
 
-Playnite forum thread:
+Playnite forum thread: https://playnite.link/forum/thread-1085.html
 
 ## Features
 - Minimal and clean UI based on transparency and comfortable spacing
