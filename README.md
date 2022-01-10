@@ -22,7 +22,7 @@ Playnite forum thread:
   
 - **Advanced**
   - Font sizes for 1440p resolution: Small: **18** / Normal: **20** / Large: **22** / Larger: **28** / Largest: **36**
-  - Font sizes for 1080 resolution
+  - Font sizes for 1080p resolution: Small: **14** / Normal: **16** / Large: **18** / Larger: **22** / Largest: **34** 
   - Text rendering mode: **Aliased**
   - Text formatting mode: **Ideal**
 
