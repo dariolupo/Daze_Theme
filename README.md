@@ -11,18 +11,17 @@ Playnite forum thread:
 
 ## Optimal Playnite settings to avoid issues and achieve what's shown in the screenshots
 - **Appearance**
-  Application font: **Lato**
-  Monospaced font: **Lato Light**
-  Show item count on group descriptions: **True**
-  Show only assigned fields on filter and explorer panels: **True**
+  - Application font: **Lato**
+  - Monospaced font: **Lato Light**
+  - Show item count on group descriptions: **True**
+  - Show only assigned fields on filter and explorer panels: **True**
   - Use game background image as window background: **True**
-    Blur background: **True** - Amount: **50/60%**
-    Darken background: **True** - Amount: **True**
-  Animate background image transitions: **True**
+  - Blur background: **True** - Amount: **50/60%**
+  - Darken background: **True** - Amount: **True**
+  - Animate background image transitions: **True**
   
 - **Advanced**
-  - Font sizes for 1440p resolution
-    Small: **18** / Normal: **20** / Large: **22** / Larger: **28** / Largest: **36**
+  - Font sizes for 1440p resolution: Small: **18** / Normal: **20** / Large: **22** / Larger: **28** / Largest: **36**
   - Font sizes for 1080 resolution
   - Text rendering mode: **Aliased**
   - Text formatting mode: **Ideal**
@@ -37,11 +36,11 @@ Playnite forum thread:
   - Show game names on Grid view: **True** if you wish to have names + star rating displayed under games
   - Darken not installed games: **False**
   - Cover art rendering
-    Aspect Ratio: **3:4**
-    Stretch mode: **Uniform to fill**
-    Item spacing: **32**
-    Grid item border width: **0**
-    Draw grid item background: **False**
+  - Aspect Ratio: **3:4**
+  - Stretch mode: **Uniform to fill**
+  - Item spacing: **32**
+  - Grid item border width: **0**
+  - Draw grid item background: **False**
     
 - **Layout**
   - Filter panel position/width: **Left** - **350**
@@ -55,7 +54,7 @@ Playnite forum thread:
   - Section separator width: **15**
 
 - **Extras**
-  Sidebar: **Disabled**
+  - Sidebar: **Disabled**
 
 ## More info
 - The star rating display method based on user score is the following:
