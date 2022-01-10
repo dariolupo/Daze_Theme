@@ -17,7 +17,7 @@ Playnite forum thread:
   - Show only assigned fields on filter and explorer panels: **True**
   - Use game background image as window background: **True**
   - Blur background: **True** - Amount: **50/60%**
-  - Darken background: **True** - Amount: **True**
+  - Darken background: **True** - Amount: **60/70%**
   - Animate background image transitions: **True**
   
 - **Advanced**
