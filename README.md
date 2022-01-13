@@ -9,6 +9,10 @@ Playnite forum thread: https://playnite.link/forum/thread-1085.html
 - Displays rating in form of stars (1 to 5) under game covers in Grid View based on user score (Only when "Show game names in Grid view" is enabled in Playnite settings)
 - Support for most common add-ons, such as [SuccessStory](https://github.com/Lacro59/playnite-successstory-plugin), [HowLongToBeat](https://github.com/Lacro59/playnite-howlongtobeat-plugin), [Extra Metadata Tools](https://playnite.link/forum/thread-575.html) (videos), and [News Viewer](https://playnite.link/forum/thread-947.html)
 
+## Mods
+If you don't want to have the stars under the covers in Grid View, you'll have to replace a file in your theme installation folder. 
+You can download the file and instructions [here](https://github.com/dariolupo/Daze_Theme/raw/main/Extras/RemoveStarsRating.zip).
+
 ## Optimal Playnite settings to avoid issues and achieve what's shown in the screenshots
 - **Appearance**
   - Application font: **Lato**
