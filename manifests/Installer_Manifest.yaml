@@ -6,3 +6,15 @@ Packages:
     PackageUrl: https://github.com/dariolupo/Daze_Theme/releases/download/v1.0/Daze_27790ca9-d3a4-480f-bffe-914ec6768363_1_0.pthm
     Changelog:
       - 'Initial release'
+  - Version: 1.1
+    RequiredApiVersion: 2.1.0
+    ReleaseDate: 2022-10-08
+    PackageUrl: https://github.com/dariolupo/Daze_Theme/releases/download/v1.1/Daze_27790ca9-d3a4-480f-bffe-914ec6768363_1_1.pthm
+    Changelog:
+      - Improved animations when selecting games in grid view; selected games are also more easily identified.
+      - When using the "Show game names in Grid view" option, semi-transparent stars will now be displayed to indicate a game does not have any user score
+      - Adapted sidebar design to the theme
+      - Search bar, dropdowns, scrollbars and similar are now semi-transparent
+      - Improved design of top panel buttons, selected "view mode" buttons are now also highlighted in white
+      - Pop-ups and windows now have rounded corners 
+      - Improved shadow effect for selected games in grid view
