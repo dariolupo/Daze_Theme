@@ -3,15 +3,16 @@ A minimal, rounded theme for [Playnite](https://github.com/JosefNemec/Playnite) 
 
 Playnite forum thread: https://playnite.link/forum/thread-1085.html
 
+## Donations
+Wanna say thanks? 
+If you wish to donate, I appreciate it and you may do so via [PayPal](https://paypal.me/dariolupo).
+Or, if you prefer, I also make music, so you could support my work buying some of my lossless releases on [Bandcamp](https://needaname.bandcamp.com).
+
 ## Features
 - Minimal and clean UI based on transparency and comfortable spacing
 - Borderless rounded covers (Only working perfectly when using IGDB as Metadata source for covers)
 - Displays rating in form of stars (1 to 5) under game covers in Grid View based on user score (Only when "Show game names in Grid view" is enabled in Playnite settings)
 - Support for most common add-ons, such as [SuccessStory](https://github.com/Lacro59/playnite-successstory-plugin), [HowLongToBeat](https://github.com/Lacro59/playnite-howlongtobeat-plugin), [Extra Metadata Tools](https://playnite.link/forum/thread-575.html) (videos), and [News Viewer](https://playnite.link/forum/thread-947.html)
-
-## Mods
-If you don't want to have the stars under the covers in Grid View, you'll have to replace a file in your theme installation folder. 
-You can download the file and instructions [here](https://github.com/dariolupo/Daze_Theme/raw/main/Extras/RemoveStarsRating.zip).
 
 ## Optimal Playnite settings to avoid issues and achieve what's shown in the screenshots
 - **Appearance**
@@ -69,6 +70,10 @@ You can download the file and instructions [here](https://github.com/dariolupo/D
   - 60-80 = 4 stars
   - 80-100 = 5 stars
 - The rounded covers only work properly when using covers downloaded from IGDB, when using other formats there will be issues (such as rounded corners not displaying at the bottom of the cover)
+
+## Mods
+If you don't want to have the stars under the covers in Grid View, you'll have to replace a file in your theme installation folder. 
+You can download the file and instructions [here](https://github.com/dariolupo/Daze_Theme/raw/main/Extras/RemoveStarsRating.zip).
 
 ## Screenshots
 ![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Explorer%20+%20Details).png)
