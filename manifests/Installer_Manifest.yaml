@@ -18,3 +18,13 @@ Packages:
       - Improved design of top panel buttons, selected "view mode" buttons are now also highlighted in white
       - Pop-ups and windows now have rounded corners 
       - Improved shadow effect for selected games in grid view
+  - Version: 1.2
+    RequiredApiVersion: 2.1.0
+    ReleaseDate: 2022-12-01
+    PackageUrl: https://github.com/dariolupo/Daze_Theme/releases/download/v1.2/Daze_27790ca9-d3a4-480f-bffe-914ec6768363_1_2.pthm
+    Changelog:
+      - Better implementation of rounded covers - rounded corners should now show properly with any "Target aspect ratio" selected in Playnite settings, while before it was only fully compatible with 3:4 (IGDB covers)
+      - Improved compatibility with Grid View "Item Spacing" setting
+      - Faster hover transitions on Grid View covers
+      - Small improvements to Details and List Views
+      - Bug fixes
