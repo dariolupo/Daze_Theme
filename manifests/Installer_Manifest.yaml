@@ -28,3 +28,9 @@ Packages:
       - Faster hover transitions on Grid View covers
       - Small improvements to Details and List Views
       - Bug fixes
+  - Version: 1.2.1
+    RequiredApiVersion: 2.1.0
+    ReleaseDate: 2022-12-02
+    PackageUrl: https://github.com/dariolupo/Daze_Theme/releases/download/v1.2.1/Daze_27790ca9-d3a4-480f-bffe-914ec6768363_1_2_1.pthm
+    Changelog:
+      - Fixed overlapping texts in Game Details
