@@ -69,7 +69,6 @@ Or, if you prefer, I also make music, so you could support my work buying some o
   - 40-60 = 3 stars
   - 60-80 = 4 stars
   - 80-100 = 5 stars
-- The rounded covers only work properly when using covers downloaded from IGDB, when using other formats there will be issues (such as rounded corners not displaying at the bottom of the cover)
 
 ## Screenshots
 ![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Explorer%20+%20Details).png)
