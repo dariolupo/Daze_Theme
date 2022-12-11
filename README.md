@@ -1,7 +1,7 @@
 # Daze
 A minimal, rounded theme for [Playnite](https://github.com/JosefNemec/Playnite) Desktop.
 
-Playnite forum thread: https://playnite.link/forum/thread-1085.html
+For support: [Playnite's Discord](https://discord.gg/BrtABqe)
 
 ## Donations
 Wanna say thanks? 
@@ -14,7 +14,7 @@ Or, if you prefer, I also make music, so you could support my work buying some o
 - Displays rating in form of stars (1 to 5) under game covers in Grid View based on user score (Only when "Show game names in Grid view" is enabled in Playnite settings)
 - Support for most common add-ons, such as [SuccessStory](https://github.com/Lacro59/playnite-successstory-plugin), [HowLongToBeat](https://github.com/Lacro59/playnite-howlongtobeat-plugin), [Extra Metadata Tools](https://playnite.link/forum/thread-575.html) (videos), and [News Viewer](https://playnite.link/forum/thread-947.html)
 
-## Optimal Playnite settings to avoid issues and achieve what's shown in the screenshots
+## Optimal Playnite settings to avoid issues and achieve what's shown in the screenshots (more or less)
 - **Appearance**
   - Application font: **Lato**
   - Monospaced font: **Lato Light**
@@ -33,7 +33,7 @@ Or, if you prefer, I also make music, so you could support my work buying some o
 
 - **Details View**
   - Show game icons on Details view list: **True**
-  - Vertical spacing to game details: **20**
+  - Vertical spacing to game details: **0**
   - Game cover image height: **230**
   - Game list icon height: **30**
 
@@ -41,9 +41,9 @@ Or, if you prefer, I also make music, so you could support my work buying some o
   - Show game names on Grid view: **True** if you wish to have names + star rating displayed under games
   - Darken not installed games: **False**
   - Cover art rendering
-    - Aspect Ratio: **3:4**
+    - Aspect Ratio: **3:4** (or up to your taste; rounded covers are compatible with any aspect ratio starting from v1.2)
     - Stretch mode: **Uniform to fill**
-    - Item spacing: **32**
+    - Item spacing: **12**
     - Grid item border width: **0**
     - Draw grid item background: **False**
     
@@ -70,10 +70,6 @@ Or, if you prefer, I also make music, so you could support my work buying some o
   - 60-80 = 4 stars
   - 80-100 = 5 stars
 - The rounded covers only work properly when using covers downloaded from IGDB, when using other formats there will be issues (such as rounded corners not displaying at the bottom of the cover)
-
-## Mods
-If you don't want to have the stars under the covers in Grid View, you'll have to replace a file in your theme installation folder. 
-You can download the file and instructions [here](https://github.com/dariolupo/Daze_Theme/raw/main/Extras/RemoveStarsRating.zip).
 
 ## Screenshots
 ![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Explorer%20+%20Details).png)
