@@ -9,10 +9,9 @@ If you wish to donate, I appreciate it and you may do so via [PayPal](https://pa
 Or, if you prefer, I also make music, so you could support my work buying some of my lossless releases on [Bandcamp](https://needaname.bandcamp.com).
 
 ## Features
-- Minimal and clean UI based on transparency and comfortable spacing
-- Borderless rounded covers
-- Displays rating in form of stars (1 to 5) under game covers in Grid View based on user score (Only when "Show game names in Grid view" is enabled in Playnite settings)
-- Support for most common add-ons, such as [SuccessStory](https://github.com/Lacro59/playnite-successstory-plugin), [HowLongToBeat](https://github.com/Lacro59/playnite-howlongtobeat-plugin), [Extra Metadata Tools](https://playnite.link/forum/thread-575.html) (videos), and [News Viewer](https://playnite.link/forum/thread-947.html)
+- Minimal and clean UI based on transparency, rounded borders and comfortable spacing
+- Displays rating in form of stars (1 to 5) under game covers in Grid View based on user score
+- Support for most common add-ons, such as [SuccessStory](https://github.com/Lacro59/playnite-successstory-plugin), [HowLongToBeat](https://github.com/Lacro59/playnite-howlongtobeat-plugin), [Extra Metadata Tools](https://playnite.link/forum/thread-575.html) (videos), [News Viewer](https://playnite.link/forum/thread-947.html) and [Theme Modifier](https://github.com/Lacro59/playnite-thememodifier-plugin/wiki)
 
 ## Optimal Playnite settings to avoid issues and achieve what's shown in the screenshots (more or less)
 - **Appearance**
@@ -38,7 +37,7 @@ Or, if you prefer, I also make music, so you could support my work buying some o
   - Game list icon height: **30**
 
 - **Grid view**
-  - Show game names on Grid view: **True** if you wish to have names + star rating displayed under games
+  - Show game names on Grid view: **True** if you wish to have names under games
   - Darken not installed games: **False**
   - Cover art rendering
     - Aspect Ratio: **3:4** (or up to your taste; rounded covers are compatible with any aspect ratio starting from v1.2)
@@ -62,7 +61,7 @@ Or, if you prefer, I also make music, so you could support my work buying some o
   - Sidebar: **Disabled**
 
 ## More info
-- The best way to use this theme without issues is using the suggested settings shown before
+- The best way to use this theme without issues is using the suggested settings shown above
 - The star rating display method based on user score is the following:
   - 0-20 = 1 star
   - 20-40 = 2 stars
