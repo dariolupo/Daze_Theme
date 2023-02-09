@@ -34,3 +34,22 @@ Packages:
     PackageUrl: https://github.com/dariolupo/Daze_Theme/releases/download/v1.2.1/Daze_27790ca9-d3a4-480f-bffe-914ec6768363_1_2_1.pthm
     Changelog:
       - Fixed overlapping texts in Game Details
+  - Version: 2.0
+    RequiredApiVersion: 2.1.0
+    ReleaseDate: 2023-02-09
+    PackageUrl: https://github.com/dariolupo/Daze_Theme/releases/download/v2.0/Daze_27790ca9-d3a4-480f-bffe-914ec6768363_2_0.pthm
+    Changelog:
+      - Rework of constants and overall design
+        -   More consistent colors all around
+        -   Improved design of various controls, buttons, text fields and windows
+        -   Improved List View design
+        -   Improved Sidebar design
+        -   Adjustments to the opacity of many theme elements
+        -   Colorful icons in dropdown menus
+      - Added support for ThemeModifier add-on, with the option to customize some theme features and edit theme colors through its "Edit constants" section
+      - Grid view
+        - Added icons on the bottom right of game covers based on set Completion Statuses (Completed: Star, Beaten: Checkered Flag)
+        - Smoother zoom transitions
+        - Changes to Stars under game covers
+          - The display of stars under game covers is not connected to the "Show Game names in Grid view" Playnite setting anymore. Stars are now displayed under covers independently of this setting 
+          - The display of stars under game covers can now be completely disabled through a constant in the ThemeModifier add-on
