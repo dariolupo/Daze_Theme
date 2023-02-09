@@ -11,7 +11,7 @@ Or, if you prefer, I also make music, so you could support my work buying some o
 ## Features
 - Minimal and clean UI based on transparency, rounded borders and comfortable spacing
 - Displays rating in form of stars (1 to 5) under game covers in Grid View based on user score
-- Support for most common add-ons, such as [SuccessStory](https://github.com/Lacro59/playnite-successstory-plugin), [HowLongToBeat](https://github.com/Lacro59/playnite-howlongtobeat-plugin), [Extra Metadata Tools](https://playnite.link/forum/thread-575.html) (videos), [News Viewer](https://playnite.link/forum/thread-947.html) and [Theme Modifier](https://github.com/Lacro59/playnite-thememodifier-plugin/wiki)
+- Support for most common add-ons such as [SuccessStory](https://github.com/Lacro59/playnite-successstory-plugin), [HowLongToBeat](https://github.com/Lacro59/playnite-howlongtobeat-plugin), [Extra Metadata Tools](https://playnite.link/forum/thread-575.html) (videos), [News Viewer](https://playnite.link/forum/thread-947.html) and [Theme Modifier](https://github.com/Lacro59/playnite-thememodifier-plugin/wiki)
 
 ## Optimal Playnite settings to avoid issues and achieve what's shown in the screenshots (more or less)
 - **Appearance**
