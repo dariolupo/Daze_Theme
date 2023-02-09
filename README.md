@@ -57,9 +57,6 @@ Or, if you prefer, I also make music, so you could support my work buying some o
   - Plugins items position: **Right**
   - Section separator width: **15**
 
-- **Extras**
-  - Sidebar: **Disabled**
-
 ## More info
 - The best way to use this theme without issues is using the suggested settings shown above
 - The star rating display method based on user score is the following:
