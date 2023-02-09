@@ -71,15 +71,12 @@ Or, if you prefer, I also make music, so you could support my work buying some o
   - 80-100 = 5 stars
 
 ## Screenshots
-![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Explorer%20+%20Details).png)
+![Screenshot](https://github.com/dariolupo/Daze_Theme/blob/main/Screenshots/2.0/1.png)
 
-![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Full).png)
+![Screenshot](https://github.com/dariolupo/Daze_Theme/blob/main/Screenshots/2.0/2.png)
 
-![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(with%20Stars%20Ratings).png)
+![Screenshot](https://github.com/dariolupo/Daze_Theme/blob/main/Screenshots/2.0/3.png)
 
-![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Details%20View.png)
+![Screenshot](https://github.com/dariolupo/Daze_Theme/blob/main/Screenshots/2.0/4.png)
 
-![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Details%20View%20(with%20Filters).png)
-
-![Screenshot](https://raw.githubusercontent.com/dariolupo/Daze_Theme/main/Screenshots/Grid%20View%20(Filters%20+%20Details).png)
 
