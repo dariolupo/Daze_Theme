@@ -52,3 +52,14 @@ Packages:
       - Grid view - Changes to Stars under game covers
       - Grid view - Stars - The display of stars under game covers is not connected to the "Show Game names in Grid view" Playnite setting anymore. Stars are now displayed under covers independently of this setting 
       - Grid view - Stars - The display of stars under game covers can now be completely disabled through a constant in the ThemeModifier add-on
+  - Version: 2.1
+    RequiredApiVersion: 2.1.0
+    ReleaseDate: 2023-02-10
+    PackageUrl: https://github.com/dariolupo/Daze_Theme/releases/download/v2.1/Daze_27790ca9-d3a4-480f-bffe-914ec6768363_2_1.pthm
+    Changelog:
+      - Added an option in ThemeModifier to show or hide the game's background image in Details view
+      - Fixed Show/Hide option for zoom slider in ThemeModifier which was not working
+      - Improved design of "Cancel" button in Top Bar
+      - Improved design of some elements in Combo Boxes.
+      - Adjusted transparency of Expander element
+      - Adjusted hover color of month button in Date Picker 
