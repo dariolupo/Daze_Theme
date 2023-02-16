@@ -62,4 +62,10 @@ Packages:
       - Improved design of "Cancel" button in Top Bar
       - Improved design of some elements in Combo Boxes.
       - Adjusted transparency of Expander element
-      - Adjusted hover color of month button in Date Picker 
+      - Adjusted hover color of month button in Date Picker
+  - Version: 2.1.1
+    RequiredApiVersion: 2.1.0
+    ReleaseDate: 2023-02-16
+    PackageUrl: https://github.com/dariolupo/Daze_Theme/releases/download/v2.1.1/Daze_27790ca9-d3a4-480f-bffe-914ec6768363_2_1_1.pthm
+    Changelog:
+      - Fixed crash when displaying DataGrid
