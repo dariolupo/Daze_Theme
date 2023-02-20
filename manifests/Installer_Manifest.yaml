@@ -69,3 +69,10 @@ Packages:
     PackageUrl: https://github.com/dariolupo/Daze_Theme/releases/download/v2.1.1/Daze_27790ca9-d3a4-480f-bffe-914ec6768363_2_1_1.pthm
     Changelog:
       - Fixed crash when displaying DataGrid
+  - Version: 2.1.2
+    RequiredApiVersion: 2.1.0
+    ReleaseDate: 2023-02-20
+    PackageUrl: https://github.com/dariolupo/Daze_Theme/releases/download/v2.1.2/Daze_27790ca9-d3a4-480f-bffe-914ec6768363_2_1_2.pthm
+    Changelog:
+      - Fixed an issue with the columns' widths in Details view
+      - Corrected off-centered vertical alignment in TextBox elements
