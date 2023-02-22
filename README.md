@@ -6,7 +6,7 @@ For support: [Playnite's Discord](https://discord.gg/BrtABqe)
 ## Donations
 Wanna say thanks? 
 If you wish to donate, I appreciate it and you may do so via [PayPal](https://paypal.me/dariolupo).
-Or, if you prefer, I also make music, so you could support my work buying some of my lossless releases on [Bandcamp](https://needaname.bandcamp.com).
+Or, if you prefer, I also make music, so you could support my work buying some of my lossless releases on [Bandcamp](https://needaname.bandcamp.com) or listening to it on your favorite [streaming service](https://ffm.to/dariolupo).
 
 ## Features
 - Minimal and clean UI based on transparency, rounded borders and comfortable spacing
