@@ -84,3 +84,11 @@ Packages:
       - Added Support for Extra Metadata Loader logos both in Details View and Details Panel (Grid View)
       - Name field is now correctly hidden in Details View when unselected in Playnite settings
       - Install size field is now correctly shown in Details Panel (Grid View) when selected in Playnite settings
+  - Version: 2.3
+    RequiredApiVersion: 2.1.0
+    ReleaseDate: 2026-08-06
+    PackageUrl: https://github.com/dariolupo/Daze_Theme/releases/download/v2.3/Daze_27790ca9-d3a4-480f-bffe-914ec6768363_2_3.pthm
+    Changelog:
+      - Added basic support for the Playnite Achievements extension.
+      - Added half-star ratings to the star rating system (idea by bearoxo). The logic works so that a Playnite User Score of 10 equals half a star. For example 30 is 1.5 stars, 40 is 2 stars, 60 is 3 stars, 70 is 3.5 stars and so on. Scores between 90 and 100 will always display as 5 stars due to how the Playnite scoring backend works.
+      - Adjusted margins in Details View (thanks to bearoxo for spotting the issue).
