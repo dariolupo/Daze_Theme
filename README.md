@@ -65,7 +65,8 @@ Or, if you prefer, I also make music, so you could support my work buying some o
   - 40-60 = 3 stars
   - 60-80 = 4 stars
   - 80-100 = 5 stars
-- As of 2.3, half-stars are now visible. This is the logic:
+  
+  As of version 2.3, half-stars are now possible. This is the new logic:
   - 10-20 = 0.5 star
   - 20-30 = 1 star
   - 30-40 = 1.5 stars
