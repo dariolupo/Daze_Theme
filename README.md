@@ -65,6 +65,18 @@ Or, if you prefer, I also make music, so you could support my work buying some o
   - 40-60 = 3 stars
   - 60-80 = 4 stars
   - 80-100 = 5 stars
+- As of 2.3, half-stars are now visible. This is the logic:
+  - 10-20 = 0.5 star
+  - 20-30 = 1 star
+  - 30-40 = 1.5 stars
+  - 40-50 = 2 stars
+  - 50-60 = 2.5 stars
+  - 60-70 = 3 stars
+  - 70-80 = 3.5 stars
+  - 80-90 = 4 stars
+  - 90-100 = 5 stars*
+
+ *In a perfect world, 90 to 99 would be 4.5 stars and 100 would be 5 stars, but this is not possible because of the way Playnite ratings work.
 
 ## Screenshots
 ![Screenshot](https://github.com/dariolupo/Daze_Theme/blob/main/Screenshots/2.2/1.png)
